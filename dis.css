@@ -32,7 +32,7 @@ p{
 }
 .inverted {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    background-color: rgb(255, 255, 255); 
+    background-color: rgb(251, 246, 246); 
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -47,7 +47,7 @@ p{
 }
 
 .invertedBut{
-    background-color: #d52929;
+    background-color: #ffffff;
     color: black;
     padding: 50px;
     font-size: 50px;
